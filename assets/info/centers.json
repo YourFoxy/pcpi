@@ -1,0 +1,420 @@
+{
+  "centers": [
+    {
+      "center": [
+        {
+          "name": "Брестская областная библиотека имени М. Горького",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "center": [
+        {
+          "name": "Барановичская ЦРБ им. Я. Чечота ГУК «Барановичская РЦБС»",
+          "url": "https://rcbs-bar.by/dlya-chitatelei-2/ptspi.html"
+        },
+        {
+          "name": "Городищенская ГпБ ГУК «Барановичская РЦБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/baranovichskaya-rtsbs/gorodishchenskaya-gpb-/"
+        }
+      ]
+    },
+    {
+      "center": [
+        {
+          "name": "Брестская ЦРБ ГУК «Брестская РБС»",
+          "url": "http://brest-railib.by/publichnyj-centr-pravovoj-informacii-pcpi"
+        },
+        {
+          "name": "Домачевская ГпБ ГУК «Брестская РБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/brestskaya-rtsbs/domachevskaya-gorposelkovaya-biblioteka/"
+        }
+      ]
+    },
+    {
+      "center": [
+        {
+          "name": "Берёзовская ЦРБ ГУК «Берёзовская РБС»",
+          "url": "https://bereza-cbs.by/pcpi/"
+        },
+        {
+          "name": "Белоозёрская ГБ ГУК «Берёзовская РБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/beryezovskaya-rbs/beloozyerskaya-gorodskaya-biblioteka/"
+        }
+      ]
+    },
+    {
+      "center": [
+        {
+          "name": "Ганцевичская ЦРБ им. В. Ф. Проскурова ГУК «Ганцевичская РЦБС»",
+          "url": "http://gantevicilib.by/resources/the_public_centre_of_the_legal_information/"
+        },
+        {
+          "name": "Хотыничская СБ ГУК «Ганцевичская РЦБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/gantsevichskaya-rtsbs/khotynichskaya-selskaya-biblioteka/"
+        },
+        {
+          "name": "Огаревичская СБ ГУК «Ганцевичская РЦБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/gantsevichskaya-rtsbs/ogarevichskaya-sb/"
+        },
+        {
+          "name": "Люсинская СБ ГУК «Ганцевичская РЦБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/gantsevichskaya-rtsbs/lyusinskaya-selskaya-biblioteka/"
+        }
+      ]
+    },
+    {
+      "center": [
+        {
+          "name": "Дрогичинская ЦРБ ГУК «Дрогичинская РЦБС»",
+          "url": "https://bibldrog.by/d0-bf-d1-83-d0-b1-d0-bb-d0-b8-d1-87-d0-bd-d1-8b-d0-b9-d1-86-d0-b5-d0-bd-d1-82-d1-80-d0-bf-d1-80-d0-b0-d0-b2-d0-be-d0-b2-d0-be-d0-b9-d0-b8-d0-bd-d1-84-d0-be-d1-80-d0-bc-d0-b0-d1-86-d0-b8-d0-b8/"
+        },
+        {
+          "name": "Антопольская ГпБ ГУК «Дрогичинская РЦБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/drogichinskaya-rtsbs/antopolskaya-gorposelkovaya-biblioteka/"
+        },
+        {
+          "name": "Радостовская СБ ГУК «Дрогичинская РЦБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/drogichinskaya-rtsbs/radostovskaya-sb/"
+        },
+        {
+          "name": "Детковичская СБ ГУК «Дрогичинская РЦБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/drogichinskaya-rtsbs/detkovichskaya-sb/"
+        },
+        {
+          "name": "Закозельская СБ ГУК «Дрогичинская РЦБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/drogichinskaya-rtsbs/zakozelskaya-sb/"
+        }
+      ]
+    },
+    {
+      "center": [
+        {
+          "name": "Жабинковская ЦРБ ГУК «Жабинковская РЦБС»",
+          "url": "https://www.zhabinkalib.by/resources/pcpi"
+        }
+      ]
+    },
+    {
+      "center": [
+        {
+          "name": "Ивановская ЦРБ им. Ф. И. Панфёрова ГУК «ЦРБ им. Ф. И. Панфёрова»",
+          "url": "https://janowlib.by/index.php/glavnaya/194-publichnyj-tsentr-pravovoj-informatsii-ptspi"
+        }
+      ]
+    },
+    {
+      "center": [
+        {
+          "name": "Ивацевичская ЦРБ им. П. Пестрака ГУК «Ивацевичская РБС»",
+          "url": "http://ivacb.www.by/pravo"
+        },
+        {
+          "name": "Телеханская ГпБ ГУК «Ивацевичская РБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/ivatsevichskaya-rbs/telekhanskaya-gorposelkovaya-biblioteka/"
+        },
+        {
+          "name": "Коссовская ГБ ГУК «Ивацевичская РБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/ivatsevichskaya-rbs/kossovskaya-gb/"
+        },
+        {
+          "name": "Обровская СБ ГУК «Ивацевичская РБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/ivatsevichskaya-rbs/obrovskaya-sb/"
+        },
+        {
+          "name": "Бытенская СБ ГУК «Ивацевичская РБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/ivatsevichskaya-rbs/bytenskaya-sb/"
+        },
+        {
+          "name": "Яглевичская СБ ГУК «Ивацевичская РБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/ivatsevichskaya-rbs/yaglevichskaya-sb/"
+        }
+      ]
+    },
+    {
+      "center": [
+        {
+          "name": "Каменецкая ЦРБ им. В. М. Игнатовского ГУК «Каменецкая РБС»",
+          "url": "http://kamlib.by/information_resources/ptspi/"
+        },
+        {
+          "name": "Видомлянская СБ ГУК «Каменецкая РБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/kamenetskaya-rbs/vidomlyanskaya-sb/"
+        },
+        {
+          "name": "Каменюкская СБ ГУК «Каменецкая РБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/kamenetskaya-rbs/kamenyukskaya-sb/"
+        },
+        {
+          "name": "Высоковская ДБ ГУК «Каменецкая РБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/kamenetskaya-rbs/vysokovskaya-gdb/"
+        },
+        {
+          "name": "Пелищенская СБ ГУК «Каменецкая РБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/kamenetskaya-rbs/pelishchenskaya-sb/"
+        }
+      ]
+    },
+    {
+      "center": [
+        {
+          "name": "Кобринская ЦРБ ГУК «Кобринская РЦБС»",
+          "url": "http://krcls.by/index.php?option=com_content&view=article&id=1099:2013-03-27-13-44-13&catid=109:pcpi&Itemid=562"
+        },
+        {
+          "name": "Лукская СБ ГУК «Кобринская РЦБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/kobrinskaya-rtsbs/lukskaya-integrirovannaya-biblioteka/"
+        }
+      ]
+    },
+    {
+      "center": [
+        {
+          "name": "Лунинецкая ЦРБ ГУК «Лунинецкая РЦБС»",
+          "url": "http://lrcbs.by/chitatelyu/publichnyiy-tsentr-pravovoy-informatsii/"
+        },
+        {
+          "name": "Микашевичская ГБ ГУК «Лунинецкая РЦБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/luninetskaya-rtsbs/mikashevichskaya-gb/"
+        },
+        {
+          "name": "Дятловичская СБ ГУК «Лунинецкая РЦБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/luninetskaya-rtsbs/dyatlovichskaya-sb/"
+        },
+        {
+          "name": "Межлесская СБ ГУК «Лунинецкая РЦБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/luninetskaya-rtsbs/mezhlesskaya-sb/"
+        }
+      ]
+    },
+    {
+      "center": [
+        {
+          "name": "Ляховичская ЦРБ им. Я. Купалы ГУК «Ляховичская РЦБС»",
+          "url": "http://liblh.by/publichnyj-centr-pravovoj-informacii"
+        }
+      ]
+    },
+    {
+      "center": [
+        {
+          "name": "Малоритская ЦРБ ГУК «Малоритская РЦБС»",
+          "url": "http://www.maloritalib.by/resources/the_public_centre_of_the_legal_information/"
+        },
+        {
+          "name": "Хотиславская СБ ГУК «Малоритская РЦБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/maloritskaya-rtsbs/khotislavskaya-sb/"
+        },
+        {
+          "name": "Олтушская СБ ГУК «Малоритская РЦБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/maloritskaya-rtsbs/oltushskaya-sb/"
+        },
+        {
+          "name": "Луковская СБ ГУК «Малоритская РЦБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/maloritskaya-rtsbs/lukovskaya-sb/"
+        }
+      ]
+    },
+    {
+      "center": [
+        {
+          "name": "Пинская ЦРБ им. Е. Янищиц ГУК «Пинская РЦБС»",
+          "url": "http://crbpinsk.brest.by/publichnyj-centr-pravovoj-informacii"
+        },
+        {
+          "name": "Валищенская СБ ГУК «Пинская РЦБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/pinskaya-rtsbs/valishchenskaya-sb/"
+        },
+        {
+          "name": "Логишинская ГпБ ГУК «Пинская РЦБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/pinskaya-rtsbs/logishinskaya-gorposelkovaya-biblioteka/"
+        },
+        {
+          "name": "Молотковичская СБ ГУК «Пинская РЦБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/pinskaya-rtsbs/molotkovichskaya-sb/"
+        },
+        {
+          "name": "Парохонская СБ ГУК «Пинская РЦБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/pinskaya-rtsbs/parokhonskaya-sb/"
+        },
+        {
+          "name": "Лопатинская СБ ГУК «Пинская РЦБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/pinskaya-rtsbs/lopatinskaya-biblioteka-muzey-a-bloka/"
+        },
+        {
+          "name": "Плещицкая СБ ГУК «Пинская РЦБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/pinskaya-rtsbs/pleshchitskaya-sb/"
+        },
+        {
+          "name": "Жидченская СБ ГУК «Пинская РЦБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/pinskaya-rtsbs/zhidchenskaya-sb/"
+        },
+        {
+          "name": "Оснежицкая СБ ГУК «Пинская РЦБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/pinskaya-rtsbs/osnezhitskaya-sb/"
+        },
+        {
+          "name": "Новодворская СБ ГУК «Пинская РЦБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/pinskaya-rtsbs/novodvorskaya-sb/"
+        },
+        {
+          "name": "Оховская СБ ГУК «Пинская РЦБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/pinskaya-rtsbs/okhovskaya-sb/"
+        },
+        {
+          "name": "Сошненская СБ ГУК «Пинская РЦБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/pinskaya-rtsbs/soshnenskaya-sb/"
+        },
+        {
+          "name": "Пинковичская СБ ГУК «Пинская РЦБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/pinskaya-rtsbs/pinkovichskaya-sb/"
+        },
+        {
+          "name": "Чуховская СБ ГУК «Пинская РЦБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/pinskaya-rtsbs/chukhovskaya-sb/"
+        },
+        {
+          "name": "Каменская СБ ГУК «Пинская РЦБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/pinskaya-rtsbs/kamenskaya-sb/"
+        },
+        {
+          "name": "Ставокская СБ ГУК «Пинская РЦБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/pinskaya-rtsbs/stavokskaya-sb/"
+        },
+        {
+          "name": "Кошевичская СБ ГУК «Пинская РЦБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/pinskaya-rtsbs/koshevichskaya-sb/"
+        },
+        {
+          "name": "Лыщенская СБ ГУК «Пинская РЦБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/pinskaya-rtsbs/lyshchenskaya-sb/"
+        },
+        {
+          "name": "Городищенская СБ ГУК «Пинская РЦБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/pinskaya-rtsbs/gorodishchenskaya-sb/"
+        }
+      ]
+    },
+    {
+      "center": [
+        {
+          "name": "Пружанская ЦРБ им. М. Засима ГУК «Пружанская ЦБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/pruzhanskaya-tsbs/pruzhanskaya-tsentralnaya-rayonnaya-biblioteka-im-m-zasima/"
+        },
+        {
+          "name": "Ружанская ГпБ ГУК «Пружанская ЦБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/pruzhanskaya-tsbs/ruzhanskaya-gorposelkovaya-biblioteka/"
+        },
+        {
+          "name": "Шерешевская ГпБ ГУК «Пружанская ЦБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/pruzhanskaya-tsbs/shereshevskaya-gorposelkovaya-biblioteka/"
+        },
+        {
+          "name": "Клепачская СБ ГУК «Пружанская ЦБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/pruzhanskaya-tsbs/klepachskaya-selskaya-biblioteka/"
+        }
+      ]
+    },
+    {
+      "center": [
+        {
+          "name": "Столинская ЦРБ ГУК «Столинская РБС»",
+          "url": "http://lib-stolin.by/polozhenie-o-pcpi"
+        },
+        {
+          "name": "Столинская РДБ ГУК «Столинская РБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/stolinskaya-rbs/stolinskaya-rdb-filial-1/"
+        },
+        {
+          "name": "Давид-Городокская ГБ ГУК «Столинская РБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/stolinskaya-rbs/david-gorodokskaya-gb-filial-2/"
+        },
+        {
+          "name": "Речицкая ГпБ ГУК «Столинская РБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/stolinskaya-rbs/rechitskaya-gorposelkovaya-biblioteka-filial-4/"
+        },
+        {
+          "name": "Ольшанская СБ ГУК «Столинская РБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/stolinskaya-rbs/olshanskaya-sb-filial-29/"
+        },
+        {
+          "name": "Белоушская СБ ГУК «Столинская РБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/stolinskaya-rbs/beloushskaya-sb-filial-5/"
+        },
+        {
+          "name": "Бережновская СБ ГУК «Столинская РБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/stolinskaya-rbs/berezhnovskaya-sb-filial-6/"
+        },
+        {
+          "name": "Большемалешовская СБ ГУК «Столинская РБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/stolinskaya-rbs/bolshemaleshevskaya-sb-filial-7/"
+        },
+        {
+          "name": "Верхнетеребежовская СБ ГУК «Столинская РБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/stolinskaya-rbs/verkhneterebezhovskaya-sb-filial-11/"
+        },
+        {
+          "name": "Плотницкая СБ ГУК «Столинская РБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/stolinskaya-rbs/plotnitskaya-sb-filial-33/"
+        },
+        {
+          "name": "Ремельская СБ ГУК «Столинская РБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/stolinskaya-rbs/remelskaya-sb-filial-35/"
+        },
+        {
+          "name": "Рубельская СБ ГУК «Столинская РБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/stolinskaya-rbs/rubelskaya-sb-filial-36/"
+        },
+        {
+          "name": "Федорская СБ ГУК «Столинская РБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/stolinskaya-rbs/fedorskaya-sb-filial-44/"
+        }
+      ]
+    },
+    {
+      "center": [
+        {
+          "name": "Барановичская ЦГБ им. В. Тавлая ГУК «ЦБС г. Барановичи»",
+          "url": "http://tavlay-library.by/index.php?option=com_content&view=article&id=85&Itemid=385"
+        }
+      ]
+    },
+    {
+      "center": [
+        {
+          "name": "Брестская ЦГБ им. А. С. Пушкина ГУК «Брестская ЦГБ им. А. С. Пушкина»",
+          "url": "http://gcbs-brest.by/publichnyj-centr-pravovoj-informacii-pcpi"
+        },
+        {
+          "name": "Библиотека-филиал № 6 ГУК «Брестская ЦГБ им. А. С. Пушкина»",
+          "url": "http://brl.by/tsentralnye-biblioteki/brestskaya-tsgb-im-a-s-pushkina/biblioteka-filial-6-pushkina/"
+        },
+        {
+          "name": "Библиотека-филиал № 7 ГУК «Брестская ЦГБ им. А. С. Пушкина»",
+          "url": "http://brl.by/tsentralnye-biblioteki/brestskaya-tsgb-im-a-s-pushkina/biblioteka-filial-7-pushkina/"
+        },
+        {
+          "name": "Библиотка-филиал № 10 ГУК «Брестская ЦГБ им. А. С. Пушкина»",
+          "url": "http://brl.by/tsentralnye-biblioteki/brestskaya-tsgb-im-a-s-pushkina/biblioteka-filial-10-pushkina/"
+        }
+      ]
+    },
+    {
+      "center": [
+        {
+          "name": "Пинская ГЦБ ГУК «Пинская ГЦБС»",
+          "url": "https://pinsklib.by/%d0%be-%d1%86%d0%b5%d0%bd%d1%82%d1%80%d0%b5/"
+        },
+        {
+          "name": "Библиотека-филиал № 3 ГУК «Пинская ГЦБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/pinskaya-gtsbs/biblioteka-filial-3/"
+        },
+        {
+          "name": "Библиотека-филиал № 7 ГУК «Пинская ГЦБС»",
+          "url": "http://brl.by/tsentralnye-biblioteki/pinskaya-gtsbs/biblioteka-filial-7/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+@mixin container {
+  max-width: 130rem;
+  padding-left: 3.75rem;
+  padding-right: 3.75rem;
+  margin-left: auto;
+  margin-right: auto;
+
+  @include xl-tablet {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}

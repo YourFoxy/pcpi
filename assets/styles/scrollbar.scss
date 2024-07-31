@@ -1,0 +1,14 @@
+::-webkit-scrollbar {
+  width: 4px;
+  background-color: $white;
+  overflow: auto;
+}
+::-webkit-scrollbar-thumb {
+  width: 4px;
+  background-color: $gray;
+  cursor: pointer;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: $orange;
+}

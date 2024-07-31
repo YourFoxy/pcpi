@@ -1,0 +1,124 @@
+@mixin H1 {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-size: 7rem;
+  font-style: normal;
+  letter-spacing: 0.1rem;
+  color: $text;
+  @include xl-tablet {
+    font-size: 5rem;
+  }
+}
+@mixin H1-5 {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-size: 4rem;
+  font-style: normal;
+  color: $text;
+  @include xl-tablet {
+    font-size: 2.5rem;
+  }
+  // letter-spacing: 0.1rem;
+}
+@mixin H2 {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-size: 2rem;
+  font-style: normal;
+  letter-spacing: 0.1rem;
+  color: $text;
+  @include xl-tablet {
+    font-size: 1.5rem;
+  }
+}
+@mixin H3 {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-size: 1.5rem;
+  font-style: normal;
+  letter-spacing: 0.1rem;
+  color: $text;
+  @include xl-tablet {
+    font-size: 1.2rem;
+  }
+}
+
+@mixin H3-5 {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-size: 1.25rem;
+  font-style: normal;
+  letter-spacing: 0.1rem;
+  color: $text;
+  @include xl-tablet {
+    font-size: 1rem;
+  }
+}
+
+@mixin LargTextBold {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-size: 1rem;
+  font-style: normal;
+  letter-spacing: 0.015rem;
+  color: $text;
+}
+
+@mixin LargText {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-size: 1rem;
+  font-style: normal;
+  letter-spacing: 0.015rem;
+  color: $text;
+  @include xl-tablet {
+    font-size: 0.75rem;
+  }
+}
+
+@mixin Text {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-size: 0.75rem;
+  font-style: normal;
+  letter-spacing: 0.1rem;
+  color: $text;
+}
+
+@mixin TextBold {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-size: 0.75rem;
+  font-style: normal;
+  letter-spacing: 0.1rem;
+  color: $text;
+}
+
+@mixin SmallText {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-size: 0.625rem;
+  font-style: normal;
+  letter-spacing: 0.1rem;
+  color: $text;
+}
+
+@mixin SmallTextBold {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-size: 0.625rem;
+  font-style: normal;
+  letter-spacing: 0.1rem;
+  color: $text;
+}
